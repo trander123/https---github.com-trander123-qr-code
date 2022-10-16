@@ -2,7 +2,7 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-https://micogeeks-qrcode.netlify.app/
+Live Server: https://micogeeks-qrcode.netlify.app/
 
 ## Welcome! 👋
 
