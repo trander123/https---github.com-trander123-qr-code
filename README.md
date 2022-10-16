@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+https://micogeeks-qrcode.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
